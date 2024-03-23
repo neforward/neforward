@@ -1,5 +1,3 @@
-Neforward
-
 About me:
 
 * 🧑‍💻 Software Engineer 

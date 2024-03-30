@@ -90,15 +90,15 @@
 
 <span>
 	<img align="top" src="./icons/tg.svg"/>&nbsp;
-	<a href="https://t.me/jopaflex"><b>Telegram</b></a>
+	<a href="https://t.me/jopaflex" target="_blank"><b>Telegram</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/ig.svg"/>&nbsp;
-	<a href="https://www.instagram.com/neforward/"><b>IG</b></a>
+	<a href="https://www.instagram.com/neforward/" target="_blank"><b>IG</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/twitter.svg"/>&nbsp;
-	<a href="https://twitter.com/neforward"><b>Twitter</b></a>
+	<a href="https://twitter.com/neforward" target="_blank"><b>Twitter</b></a>
 </span>

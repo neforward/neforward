@@ -40,6 +40,11 @@ About me:
 <br/>
 <br/>
 <span>
+	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
+	<b>Node.js</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
 	<img align="top" src="./icons/ts.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span>
@@ -47,11 +52,6 @@ About me:
 <span>
 	<img align="top" src="./icons/js.svg"/>&nbsp;
 	<b>JavaScript</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
-	<b>Node.js</b>
 </span>
 <br/>
 <br/>

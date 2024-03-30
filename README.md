@@ -80,7 +80,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/gsap.svg"/>&nbsp;
-	<b>Docker</b>
+	<b>GSAP</b>
 </span>
 
 

@@ -57,7 +57,7 @@ About me:
 <br/>
 <span>
 	<img align="top" src="./icons/scss.svg"/>&nbsp;
-	<b>Sass/Scss</b>
+	<b>Sass</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>

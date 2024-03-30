@@ -48,6 +48,11 @@ About me:
 	<img align="top" src="./icons/js.svg"/>&nbsp;
 	<b>JavaScript</b>
 </span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="./icons/nodejs.svg"/>&nbsp;
+	<b>Node.js</b>
+</span>
 <br/>
 <br/>
 <span>

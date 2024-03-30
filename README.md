@@ -8,19 +8,19 @@ About me:
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="./icons/nextJS.svg"/>&nbsp;
-	<b>Next.js</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
 	<img align="top" src="./icons/react.svg"/>&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
+	<img align="top" src="./icons/nextJS.svg"/>&nbsp;
+	<b>Next.js</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
 	<img align="top" src="./icons/ts.svg"/>&nbsp;
 	<b>TypeScript</b>
-</span> 
+</span>
 <br/>
 <br/>
 <span>

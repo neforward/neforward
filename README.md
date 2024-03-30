@@ -8,7 +8,7 @@ About me:
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="./assets/nextJS.svg"/>&nbsp;
+	<img align="top" src="/assets/nextJS.svg"/>&nbsp;
 	<b>Next.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

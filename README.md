@@ -5,7 +5,7 @@ About me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neforward&layout=compact) ![neforward's GitHub stats](https://github-readme-stats.vercel.app/api?username=neforward&theme=default&show_icons=true)
 
-## Tech Stack 🔥
+## Tech Stack ⚡️
 
 <span>
 	<img align="top" src="./next.svg"/>&nbsp;

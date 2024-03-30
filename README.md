@@ -77,7 +77,7 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src=""/>&nbsp;
+	<img align="top" src="./icons/gsap.svg"/>&nbsp;
 	<b>Docker</b>
 </span>
 <br/>

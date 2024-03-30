@@ -13,21 +13,43 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
+	<img align="top" src="./icons/rtk.svg"/>&nbsp;
+	<b>Redux Toolkit</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
 	<img align="top" src="./icons/nextJS.svg"/>&nbsp;
 	<b>Next.js</b>
 </span>
+<br/>
+<br/>
+<span>
+	<img align="top" src="./icons/vue.svg"/>&nbsp;
+	<b>Vue</b>
+</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="./icons/vuex.svg"/>&nbsp;
+	<b>VueX</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="./icons/nuxt.svg"/>&nbsp;
+	<b>Nuxt.js</b>
+</span>
+<br/>
+<br/>
 <span>
 	<img align="top" src="./icons/ts.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span>
-<br/>
-<br/>
-<span>
-	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
-	<b>Node.js</b>
-</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="./icons/js.svg"/>&nbsp;
+	<b>JavaScript</b>
+</span>
+<br/>
+<br/>
 <span>
 	<img align="top" src="./icons/tailwind.svg"/>&nbsp;
 	<b>TailwindCSS</b>
@@ -37,27 +59,10 @@ About me:
 	<img align="top" src="./icons/scss.svg"/>&nbsp;
 	<b>Sass</b>
 </span>
-<br/>
-<br/>
-<span>
-	<img align="top" src="./icons/rtk.svg"/>&nbsp;
-	<b>Redux Toolkit</b>
-</span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/antDesign.svg"/>&nbsp;
 	<b>Ant Design</b>
-</span>
-<br/>
-<br/>
-<span>
-	<img align="top" src="assets/jest.svg"/>&nbsp;
-	<b>Jest</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="assets/react-testing-library.png"/>&nbsp;
-	<b>React Testing Library</b>
 </span>
 <br/>
 <br/>
@@ -70,9 +75,9 @@ About me:
 	<img align="top" src=""/>&nbsp;
 	<b>Docker</b>
 </span>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
 
 ## Contact 📞
 

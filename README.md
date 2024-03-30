@@ -77,8 +77,8 @@ About me:
 ## Contact 📞
 
 <span>
-	<img align="top" src="assets/telegram.svg"/>&nbsp;
-	<a href="https://t.me/amirsheikhmagomedov"><b>Telegram</b></a>
+	<img align="top" src="./icons/tg.svg"/>&nbsp;
+	<a href="https://t.me/jopaflex"><b>Telegram</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>

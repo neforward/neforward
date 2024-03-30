@@ -1,9 +1,12 @@
-About me:
+## About me:
 
 * 🧑‍💻 Software Engineer 
 * 📩 How to contact me: [TG:@jopaflex](https://t.me/jopaflex), [IG:@neforward](https://www.instagram.com/neforward/), Phone: +996508777235, E-mail: mairambekrexport@gmail.com 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neforward&layout=compact) ![neforward's GitHub stats](https://github-readme-stats.vercel.app/api?username=neforward&theme=default&show_icons=true)
+<br/>
+<br/>
+<br/>
 
 ## Tech Stack ⚡️
 
@@ -92,11 +95,11 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/whatsapp.svg"/>&nbsp;
-	<a href="https://wa.me/905431398599"><b>WhatsApp</b></a>
+	<img align="top" src="./icons/ig.svg"/>&nbsp;
+	<a href="https://www.instagram.com/neforward/"><b>WhatsApp</b></a>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/linkedln.svg"/>&nbsp;
-	<a href="https://www.linkedin.com/in/amirsheikhmagomedov"><b>LinkedIn</b></a>
+	<img align="top" src="./icons/twitter.svg"/>&nbsp;
+	<a href="https://twitter.com/neforward"><b>Twitter</b></a>
 </span>

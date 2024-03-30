@@ -56,13 +56,13 @@ About me:
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/tailwind.svg"/>&nbsp;
-	<b>TailwindCSS</b>
+	<img align="top" src="./icons/scss.svg"/>&nbsp;
+	<b>Sass</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/scss.svg"/>&nbsp;
-	<b>Sass</b>
+	<img align="top" src="./icons/tailwind.svg"/>&nbsp;
+	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>

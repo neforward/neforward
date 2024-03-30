@@ -29,7 +29,7 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/tailwindcss.svg"/>&nbsp;
+	<img align="top" src="./icons/tailwind.svg"/>&nbsp;
 	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

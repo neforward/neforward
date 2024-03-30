@@ -8,37 +8,26 @@ About me:
 ## Tech Stack 🔥
 
 <span>
-	<img align="top" src="assets/nextjs.svg"/>&nbsp;
+	<img align="top" src="./next.svg"/>&nbsp;
 	<b>Next.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/react.svg"/>&nbsp;
+	<img align="top" src="./react.svg"/>&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/typescript.svg"/>&nbsp;
+	<img align="top" src="./ts.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span> 
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/nodejs.svg"/>&nbsp;
+	<img align="top" src="./nodeJs.svg"/>&nbsp;
 	<b>Node.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="assets/expressjs.svg"/>&nbsp;
-	<b>Express.js</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="assets/prisma.svg"/>&nbsp;
-	<b>Prisma</b>
-</span>
-<br/>
-<br/>
 <span>
 	<img align="top" src="assets/tailwindcss.svg"/>&nbsp;
 	<b>TailwindCSS</b>

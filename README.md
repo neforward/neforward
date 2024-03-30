@@ -65,7 +65,7 @@ About me:
 	<img align="top" src="./icons/git.svg"/>&nbsp;
 	<b>Git</b>
 </span>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src=""/>&nbsp;
 	<b>Docker</b>

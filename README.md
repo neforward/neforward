@@ -50,7 +50,7 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/nodejs.svg"/>&nbsp;
+	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
 	<b>Node.js</b>
 </span>
 <br/>

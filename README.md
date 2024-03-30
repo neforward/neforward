@@ -5,7 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neforward&layout=compact) ![neforward's GitHub stats](https://github-readme-stats.vercel.app/api?username=neforward&theme=default&show_icons=true)
 
-<br/>
 
 ## Tech Stack ⚡️
 
@@ -83,7 +82,7 @@
 	<b>GSAP</b>
 </span>
 
-
+<br/>
 <br/>
 
 ## Contact 📞

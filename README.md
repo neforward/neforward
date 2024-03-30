@@ -13,7 +13,7 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./react.svg"/>&nbsp;
+	<img align="top" src="./icons/react.svg"/>&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

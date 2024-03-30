@@ -46,7 +46,7 @@ About me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/antDesign.svg"/>&nbsp;
-	<b>Zustand</b>
+	<b>Ant Design</b>
 </span>
 <br/>
 <br/>
@@ -62,12 +62,12 @@ About me:
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/git.svg"/>&nbsp;
+	<img align="top" src="./icons/git.svg"/>&nbsp;
 	<b>Git</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/docker.svg"/>&nbsp;
+	<img align="top" src=""/>&nbsp;
 	<b>Docker</b>
 </span>
 <br>

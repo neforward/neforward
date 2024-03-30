@@ -59,7 +59,7 @@
 <br/>
 <span>
 	<img align="top" src="./icons/scss.svg"/>&nbsp;
-	<b>Sass</b>
+	<b>SASS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>

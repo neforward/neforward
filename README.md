@@ -84,7 +84,7 @@
 <br/>
 <br/>
 
-## Contact 📞
+## Contact 📩
 
 <span>
 	<img align="top" src="./icons/tg.svg"/>&nbsp;

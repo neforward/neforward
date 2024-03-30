@@ -18,34 +18,34 @@ About me:
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./ts.svg"/>&nbsp;
+	<img align="top" src="./icons/ts.svg"/>&nbsp;
 	<b>TypeScript</b>
 </span> 
 <br/>
 <br/>
 <span>
-	<img align="top" src="./nodeJs.svg"/>&nbsp;
+	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
 	<b>Node.js</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/tailwindcss.svg"/>&nbsp;
+	<img align="top" src="./icons/tailwindcss.svg"/>&nbsp;
 	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/sass.svg"/>&nbsp;
+	<img align="top" src="./icons/scss.svg"/>&nbsp;
 	<b>Sass</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="assets/redux.svg"/>&nbsp;
+	<img align="top" src="./icons/rtk.svg"/>&nbsp;
 	<b>Redux Toolkit</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="assets/zustand.png"/>&nbsp;
+	<img align="top" src="./icons/antDesign.svg"/>&nbsp;
 	<b>Zustand</b>
 </span>
 <br/>

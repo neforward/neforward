@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/rtk.svg"/>&nbsp;
-	<b>Redux Toolkit</b>
+	<b>RTK</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
